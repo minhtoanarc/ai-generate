@@ -856,7 +856,7 @@ export default function App() {
             AI RENDER FOR <span className="text-amber-400">ARCHITECTURE - INTERIOR</span>
           </h1>
         </div>
-        <p className="text-sm text-slate-400 mt-3 tracking-widest">Created by Trần Minh Nhật - NBOX.AI - SĐT 0979.038.564</p>
+        <p className="text-sm text-slate-400 mt-3 tracking-widest">Created by Trần Minh Nhật - NBOX.AI - SĐT 0393431601</p>
       </header>
 
       <div className="max-w-7xl mx-auto">
